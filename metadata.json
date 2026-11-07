@@ -1,0 +1,6 @@
+{
+  "name": "CineBoard Studio - AI Script to Storyboard",
+  "description": "Upload screenplays or scene scripts to automatically generate cinematic shot lists and high-fidelity storyboard visual sequences with customizable resolution and Director AI consultation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
